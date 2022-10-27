@@ -1,0 +1,6 @@
+Dataset:
+https://www.kaggle.com/datasets/shivamb/disney-movies-and-tv-shows
+https://www.kaggle.com/datasets/shivamb/netflix-shows
+
+Report:
+https://drive.google.com/file/d/1lN_StDpNgzNyb10pcmpWCEWeT0vTuMBl/view?usp=sharing
